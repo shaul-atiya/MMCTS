@@ -1,0 +1,38 @@
+{
+    ["gunShots":{
+        "id":1,
+        "tite":"ירי",
+        "potentialInjuriesIDs":["I1,I2"],
+        "scenarios":[
+            {
+                "id":"gunShot1",
+                "title":"כוח נע אל היעד",
+                "scenario":"כוח חיר נע אל כפר ערבי בדרכו למעצר, כאשר נתקל במארב מחבלים. הכוח ניתרל את המחבלים אך ספג פגיעות",
+               
+            },
+            {
+                "id":"gunShot2",
+                "title":"חדירת מחבלים לכוח במוצב",
+                "scenario":"מחבלים חגרו לכוח השומר במוצב",
+            }
+
+        ]
+        
+    },
+    "explosiveCharge":{
+        "id":2,
+        "title":"מטען צד"
+    },
+    "Altilery":{
+        "id":3,
+        "title":"ירי אלטילרי"
+    },
+    "roadAccident":{
+        "id":4,
+        "title":"תאונת דרכים"
+    },
+    "antiTank":{
+        "id":5,
+        "title":"תאונת דרכים"
+    }]
+}
